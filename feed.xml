@@ -38,5 +38,15 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1" length="3136128" type="audio/mpeg" />
       <itunes:duration>00:03:16</itunes:duration>
     </item>
+
+    <item>
+      <title><![CDATA[AI Will Change Private Markets (Colossus)]]></title>
+      <description><![CDATA[A Bloomberg-Terminal-style argument for how AI will compress diligence and synthesis, reshaping private-market workflows and strategies.]]></description>
+      <link>https://colossus.com/article/are-we-underestimating-how-ai-will-change-private-markets/</link>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1V2TB-X7bm_hLtIjht0KQvrgwFCRql-YA</guid>
+      <pubDate>Tue, 27 Jan 2026 06:30:06 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V2TB-X7bm_hLtIjht0KQvrgwFCRql-YA" length="3415296" type="audio/mpeg" />
+      <itunes:duration>00:03:33</itunes:duration>
+    </item>
 </channel>
 </rss>
