@@ -28,5 +28,15 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X5GeutzTvDdWGZkhMhNsQYh-w1BMU7yY" length="3064320" type="audio/mpeg" />
       <itunes:duration>00:03:12</itunes:duration>
     </item>
+
+    <item>
+      <title><![CDATA[Clawdbot: The Future of Personal AI Assistants (MacStories)]]></title>
+      <description><![CDATA[A hands-on look at why chat-based agents become real assistants only when they can reliably execute workflows through tools and skills.]]></description>
+      <link>https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/</link>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1</guid>
+      <pubDate>Tue, 27 Jan 2026 06:19:30 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1" length="3136128" type="audio/mpeg" />
+      <itunes:duration>00:03:16</itunes:duration>
+    </item>
 </channel>
 </rss>
