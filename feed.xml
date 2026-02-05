@@ -10,6 +10,16 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
 
+    <item>
+      <title><![CDATA[The Agentic Enterprise Reality Check (Feb 5)]]></title>
+      <description><![CDATA[Why agentic AI deployments are running into identity sprawl, data readiness, and governance/observability constraints.]]></description>
+      <link>https://www.csoonline.com/article/4123246/think-agentic-ai-is-hard-to-secure-today-just-wait-a-few-months.html</link>
+      <pubDate>Thu, 05 Feb 2026 20:15:55 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078" length="5651267" type="audio/mpeg" />
+      <itunes:duration>00:05:53</itunes:duration>
+    </item>
+
     
     <item>
       <title><![CDATA[Two Signals for Agentic AI in 2026: Dev Taste + Security Standards (Feb 2)]]></title>
