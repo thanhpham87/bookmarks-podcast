@@ -10,6 +10,17 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
 
+
+    <item>
+      <title><![CDATA[Control Planes for Agents: Observability + Identity + Context (Feb 6)]]></title>
+      <description><![CDATA[Three shifts that make agent deployments safer and more repeatable: traces-as-control-plane, first-class agent identities, and repo-local context packs.]]></description>
+      <link>https://dev.to/seakai/observability-as-agent-os-the-open-source-alternative-3ggc</link>
+      <pubDate>Fri, 06 Feb 2026 18:05:21 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1" length="3749554" type="audio/mpeg" />
+      <itunes:duration>00:03:54</itunes:duration>
+    </item>
+
     <item>
       <title><![CDATA[The Agentic Enterprise Reality Check (Feb 5)]]></title>
       <description><![CDATA[Why agentic AI deployments are running into identity sprawl, data readiness, and governance/observability constraints.]]></description>
