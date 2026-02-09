@@ -9,9 +9,15 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
-
-
-
+    <item>
+      <title><![CDATA[OpenClaw Goes Mainstream - What the CNBC Coverage and Security Research Tell Us]]></title>
+      <description><![CDATA[Analysis of OpenClaw's viral moment: CNBC coverage, security research from Trend Micro, and what it means for agent operations and AI workshops.]]></description>
+      <link>https://www.cnbc.com/2026/02/02/openclaw-open-source-ai-agent-rise-controversy-clawdbot-moltbot-moltbook.html</link>
+      <pubDate>Mon, 09 Feb 2026 18:02:19 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB" length="6771816" type="audio/mpeg" />
+      <itunes:duration>00:07:03</itunes:duration>
+    </item>
 
     <item>
       <title><![CDATA[OpenClaw 2026.2.6: Cron reliability + security scanner (Feb 7)]]></title>
