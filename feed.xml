@@ -10,6 +10,16 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
     <item>
+      <title><![CDATA[Agent Reliability Engineering: Moving AI Agents from Demo to Production]]></title>
+      <description><![CDATA[Error handling, observability, idempotency, and production-ready patterns for AI automation that runs unsupervised. The reliability engineering discipline for agents.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Fri, 13 Feb 2026 18:04:31 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW" length="3634615" type="audio/mpeg" />
+      <itunes:duration>00:03:47</itunes:duration>
+    </item>
+
+    <item>
       <title><![CDATA[The Rise of the Agentic Operating System & Human-on-the-Loop]]></title>
       <description><![CDATA[IBM and Deloitte predict a shift to "Agentic Operating Systems" where specialized agents are orchestrated by humans in an "on-the-loop" supervisory role, matching our own OpenClaw architecture.]]></description>
       <link>https://www.ibm.com/think/news/ai-tech-trends-predictions-2026</link>
