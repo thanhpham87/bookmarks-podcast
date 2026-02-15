@@ -10,6 +10,16 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
     <item>
+      <title><![CDATA[The Enterprise Agent Tipping Point: OpenAI Frontier and the Production Reality Check]]></title>
+      <description><![CDATA[OpenAI launches Frontier, CrewAI reports 100% of enterprises expanding agent adoption, 86% deploying to production. The conversation shifted from "can we?" to "how do we do this well?" This is the week agents went mainstream.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Sun, 15 Feb 2026 18:02:55 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7" length="3556457" type="audio/mpeg" />
+      <itunes:duration>00:03:47</itunes:duration>
+    </item>
+
+    <item>
       <title><![CDATA[Agent Memory Systems: Building Persistent Context for Production AI]]></title>
       <description><![CDATA[Session memory isn't enough — production agents need layered, persistent memory with semantic search, clear write permissions, and regular maintenance. The difference between demos and production.]]></description>
       <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
