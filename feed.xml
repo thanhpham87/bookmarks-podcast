@@ -10,6 +10,16 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
     <item>
+      <title><![CDATA[The Agent Infrastructure Tipping Point: When 100% Becomes the New Normal]]></title>
+      <description><![CDATA[Fresh research from Anthropic shows 100% of enterprises plan to expand AI agent adoption in 2026. Apple ships Xcode 26.3 with native agentic coding. We're past the tipping point—agents are now infrastructure.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Mon, 16 Feb 2026 18:06:19 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1" length="3780900" type="audio/mpeg" />
+      <itunes:duration>00:03:56</itunes:duration>
+    </item>
+
+    <item>
       <title><![CDATA[The Enterprise Agent Tipping Point: OpenAI Frontier and the Production Reality Check]]></title>
       <description><![CDATA[OpenAI launches Frontier, CrewAI reports 100% of enterprises expanding agent adoption, 86% deploying to production. The conversation shifted from "can we?" to "how do we do this well?" This is the week agents went mainstream.]]></description>
       <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
