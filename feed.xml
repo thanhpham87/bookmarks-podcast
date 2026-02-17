@@ -9,6 +9,17 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
+
+    <item>
+      <title><![CDATA[Taste Is the New Bottleneck — Memory Hygiene + Auth Sanity for Real Agent Ops]]></title>
+      <description><![CDATA[When execution gets cheap, taste and ops discipline become the edge: transcript ingestion, persistent browser auth, and nightly memory hygiene for reliable agent workflows.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Tue, 17 Feb 2026 18:06:56 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk" length="4706679" type="audio/mpeg" />
+      <itunes:duration>00:04:54</itunes:duration>
+    </item>
+
     <item>
       <title><![CDATA[The Agent Infrastructure Tipping Point: When 100% Becomes the New Normal]]></title>
       <description><![CDATA[Fresh research from Anthropic shows 100% of enterprises plan to expand AI agent adoption in 2026. Apple ships Xcode 26.3 with native agentic coding. We're past the tipping point—agents are now infrastructure.]]></description>
