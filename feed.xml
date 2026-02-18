@@ -11,6 +11,16 @@
 
 
     <item>
+      <title><![CDATA[Intent over Nodes — Workflow Replacement, Email Agents, and Alert-to-Action Ops]]></title>
+      <description><![CDATA[Why intent-driven agents are replacing brittle node graphs: turn workflow exports into reliable jobs, build email triage that defaults to drafts, and convert noisy alerts into contextual incidents with governed runbooks.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Wed, 18 Feb 2026 18:12:23 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T" length="5168942" type="audio/mpeg" />
+      <itunes:duration>00:05:23</itunes:duration>
+    </item>
+
+    <item>
       <title><![CDATA[Taste Is the New Bottleneck — Memory Hygiene + Auth Sanity for Real Agent Ops]]></title>
       <description><![CDATA[When execution gets cheap, taste and ops discipline become the edge: transcript ingestion, persistent browser auth, and nightly memory hygiene for reliable agent workflows.]]></description>
       <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
