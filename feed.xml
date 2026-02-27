@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+
+    <item>
+      <title>Agents that remember, agents that ship</title>
+      <description><![CDATA[Sharper agent specs, faster local inference, and the preflight-review pattern to catch expensive mistakes before you ship.]]></description>
+      <pubDate>Fri, 27 Feb 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bookmarks-podcast-2026-02-27</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1Muksl9ZbymnM0kb7cNIRu7BpTzzFdK58" length="2703820" type="audio/mpeg" />
+      <itunes:duration>168</itunes:duration>
+    </item>
     <title>Bookmarks Podcast</title>
     <link>https://drive.google.com/drive/folders/1dRkDlPN2HrA3GSBLYYQY6vV5FGccfYrf</link>
     <description>Daily audio notes generated from Thanh's saved reading/bookmarks (Instapaper today; more sources later). Unlisted feed.</description>
