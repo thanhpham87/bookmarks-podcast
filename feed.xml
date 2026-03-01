@@ -1,357 +1,1000 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  
   <channel>
-
-    <item><title>Agents that ship (and agents that pretend to be human)</title><description>Today’s themes from X bookmarks: Workers + custom agents, shared memory across tools, and why agent etiquette matters as they start booking real meetings.</description><pubDate>Sat, 28 Feb 2026 18:03:43 +0000</pubDate><guid isPermaLink="false">bookmarks-podcast-2026-02-28</guid><enclosure url="https://drive.google.com/uc?export=download&amp;amp;id=1Mwe5ifaFOSmwnOjbExAlV3APVWnyHaBn" length="3879120" type="audio/mpeg" /><itunes:duration>242</itunes:duration></item><item>
-      <title>Agents that remember, agents that ship</title>
-      <description>Sharper agent specs, faster local inference, and the preflight-review pattern to catch expensive mistakes before you ship.</description>
-      <pubDate>Fri, 27 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bookmarks-podcast-2026-02-27</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Muksl9ZbymnM0kb7cNIRu7BpTzzFdK58" length="2703820" type="audio/mpeg" />
-      <itunes:duration>168</itunes:duration>
-    </item>
-    <title>Bookmarks Podcast</title>
-    <link>https://drive.google.com/drive/folders/1dRkDlPN2HrA3GSBLYYQY6vV5FGccfYrf</link>
-    <description>Daily audio notes generated from Thanh's saved reading/bookmarks (Instapaper today; more sources later). Unlisted feed.</description>
-    <language>en-us</language>
-    <itunes:author>Thanh Pham</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
-
-
-
-
-
-    <item>
-      <title>Exit Reviews, Context Accounting, and Local Models on Your Mac</title>
-      <description>How to ship faster with agent exit reviews, keep runs reliable with context accounting, and build hybrid stacks with local models on your Mac.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Thu, 26 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Hax5mOF3VJ6VyARRIARLhCPo4GDuHVXD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Hax5mOF3VJ6VyARRIARLhCPo4GDuHVXD" length="2524516" type="audio/mpeg" />
-      <itunes:duration>00:02:38</itunes:duration>
-    </item>
-
-    <item>
-      <title>Context Allocation, Self-Recording Agents, and the GPU Reality Check</title>
-      <description>Why agent swarms are really context architectures, Cursor’s cloud agents raise the trust bar with video artifacts, and agent throughput brings the hardware reality check.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Wed, 25 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=186HyIG71yjrm2XCrEatofm4Ns4uUURDk</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=186HyIG71yjrm2XCrEatofm4Ns4uUURDk" length="3588640" type="audio/mpeg" />
-      <itunes:duration>00:03:44</itunes:duration>
-    </item>
-
-    <item>
-      <title>Agent Traffic, Broken CLAUDE.md Files, and Running Six Agents Around the Clock</title>
-      <description>SaaS platforms face 50K agent requests per hour, llms.txt drives 10% of Vercel traffic from AI, CLAUDE.md best practices get a reality check, and OpenClaw users run full businesses on six autonomous agents.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Tue, 24 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1K5n5kwlj1XAbhG3Qz8UfoHhjc8_7cweM</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K5n5kwlj1XAbhG3Qz8UfoHhjc8_7cweM" length="4345563" type="audio/mpeg" />
-      <itunes:duration>00:04:31</itunes:duration>
-    </item>
-
-    <item>
-      <title>Parallel Agents, Founder Playbooks, and Eight Million Emails</title>
-      <description>Coding agents go parallel with four simultaneous worktrees, the OpenClaw use-case debate gets settled with concrete founder playbooks, AI email agents hit eight million sends and find ten winning patterns, and GeoSpy AI turns any selfie into a location pin.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Mon, 23 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Lu1olPtKXiLVoa_mLPdB77aWx2xL5kUA</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Lu1olPtKXiLVoa_mLPdB77aWx2xL5kUA" length="4348906" type="audio/mpeg" />
-      <itunes:duration>00:04:31</itunes:duration>
-    </item>
-
-    <item>
-      <title>The Lean Agent Stack — OpenClaw for Finance, Context Without Limits, and Shipping From Your Bedroom</title>
-      <description>OpenClaw as a personal finance operator, the five-pattern context architecture that keeps your agent lean at 24/7, and why the startup stack from your bedroom is now a solved problem — the only remaining bottleneck is taste.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Sun, 22 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16JGy3j25OQ8IAmBl7qsvZOf1QQtaZLxk</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16JGy3j25OQ8IAmBl7qsvZOf1QQtaZLxk" length="6590421" type="audio/mpeg" />
-      <itunes:duration>00:06:51</itunes:duration>
-    </item>
-
-    <item>
-      <title>Evals Over Vibes — OpenClaw vs Manus, Claude Code, and the New Baseline for Shipping</title>
-      <description>Why agent ops is moving from vibe-based automation to eval-driven reliability: platform choices matter less than runbooks, coding agents shift the bottleneck to constraints, and OpenAI Evals gives you a practical regression loop.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Sat, 21 Feb 2026 18:04:18 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17ROkm40Il6cIRKqv6Ne_JQ9JI6n1TBcJ</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17ROkm40Il6cIRKqv6Ne_JQ9JI6n1TBcJ" length="5639147" type="audio/mpeg" />
-      <itunes:duration>00:05:52</itunes:duration>
-    </item>
-
-    <item>
-      <title>Launchd over Cron — Mission Statements, Skill Architecture, and SOP-to-Workflow Agents</title>
-      <description>Why agent ops is shifting from ‘more tools’ to boring reliability: use OS-level scheduling, give agents a north-star mission, and turn SOPs into structured workflows you can audit and improve.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Thu, 19 Feb 2026 18:07:58 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG" length="5756593" type="audio/mpeg" />
-      <itunes:duration>00:05:59</itunes:duration>
-    </item>
-
-    <item>
-      <title>Intent over Nodes — Workflow Replacement, Email Agents, and Alert-to-Action Ops</title>
-      <description>Why intent-driven agents are replacing brittle node graphs: turn workflow exports into reliable jobs, build email triage that defaults to drafts, and convert noisy alerts into contextual incidents with governed runbooks.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Wed, 18 Feb 2026 18:12:23 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T" length="5168942" type="audio/mpeg" />
-      <itunes:duration>00:05:23</itunes:duration>
-    </item>
-
-    <item>
-      <title>Taste Is the New Bottleneck — Memory Hygiene + Auth Sanity for Real Agent Ops</title>
-      <description>When execution gets cheap, taste and ops discipline become the edge: transcript ingestion, persistent browser auth, and nightly memory hygiene for reliable agent workflows.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Tue, 17 Feb 2026 18:06:56 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk" length="4706679" type="audio/mpeg" />
-      <itunes:duration>00:04:54</itunes:duration>
-    </item>
-
-    <item>
-      <title>The Agent Infrastructure Tipping Point: When 100% Becomes the New Normal</title>
-      <description>Fresh research from Anthropic shows 100% of enterprises plan to expand AI agent adoption in 2026. Apple ships Xcode 26.3 with native agentic coding. We're past the tipping point—agents are now infrastructure.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Mon, 16 Feb 2026 18:06:19 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1" length="3780900" type="audio/mpeg" />
-      <itunes:duration>00:03:56</itunes:duration>
-    </item>
-
-    <item>
-      <title>The Enterprise Agent Tipping Point: OpenAI Frontier and the Production Reality Check</title>
-      <description>OpenAI launches Frontier, CrewAI reports 100% of enterprises expanding agent adoption, 86% deploying to production. The conversation shifted from "can we?" to "how do we do this well?" This is the week agents went mainstream.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Sun, 15 Feb 2026 18:02:55 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7" length="3556457" type="audio/mpeg" />
-      <itunes:duration>00:03:47</itunes:duration>
-    </item>
-
-    <item>
-      <title>Agent Memory Systems: Building Persistent Context for Production AI</title>
-      <description>Session memory isn't enough — production agents need layered, persistent memory with semantic search, clear write permissions, and regular maintenance. The difference between demos and production.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Sat, 14 Feb 2026 18:03:16 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp" length="3830638" type="audio/mpeg" />
-      <itunes:duration>00:03:59</itunes:duration>
-    </item>
-
-    <item>
-      <title>Agent Reliability Engineering: Moving AI Agents from Demo to Production</title>
-      <description>Error handling, observability, idempotency, and production-ready patterns for AI automation that runs unsupervised. The reliability engineering discipline for agents.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Fri, 13 Feb 2026 18:04:31 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW" length="3634615" type="audio/mpeg" />
-      <itunes:duration>00:03:47</itunes:duration>
-    </item>
-
-    <item>
-      <title>The Rise of the Agentic Operating System &amp; Human-on-the-Loop</title>
-      <description>IBM and Deloitte predict a shift to "Agentic Operating Systems" where specialized agents are orchestrated by humans in an "on-the-loop" supervisory role, matching our own OpenClaw architecture.</description>
-      <link>https://www.ibm.com/think/news/ai-tech-trends-predictions-2026</link>
-      <pubDate>Thu, 12 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei" length="3836566" type="audio/mpeg" />
-      <itunes:duration>00:04:00</itunes:duration>
-    </item>
-
-    <item>
-      <title>Building Production-Ready Agent Workflows: From Prototype to Reliable Automation</title>
-      <description>Moving beyond toy demos: state management, idempotency, observability, failure modes, and testing strategies for production-grade AI automation.</description>
-      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
-      <pubDate>Wed, 11 Feb 2026 18:05:18 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9" length="3836566" type="audio/mpeg" />
-      <itunes:duration>00:04:00</itunes:duration>
-    </item>
-
-    <item>
-      <title>OpenClaw Security Whiplash: what to do when your agent goes viral</title>
-      <description>A practical playbook for agent ops: contain prompt injection, skills supply-chain risk, and accidental public exposure as OpenClaw goes mainstream.</description>
-      <link>https://www.reuters.com/world/china/china-warns-security-risks-linked-openclaw-open-source-ai-agent-2026-02-05/</link>
-      <pubDate>Tue, 10 Feb 2026 18:07:49 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN" length="10864472" type="audio/mpeg" />
-      <itunes:duration>00:11:19</itunes:duration>
-    </item>
-
-
-    <item>
-      <title>OpenClaw Goes Mainstream - What the CNBC Coverage and Security Research Tell Us</title>
-      <description>Analysis of OpenClaw's viral moment: CNBC coverage, security research from Trend Micro, and what it means for agent operations and AI workshops.</description>
-      <link>https://www.cnbc.com/2026/02/02/openclaw-open-source-ai-agent-rise-controversy-clawdbot-moltbot-moltbook.html</link>
-      <pubDate>Mon, 09 Feb 2026 18:02:19 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB" length="6771816" type="audio/mpeg" />
-      <itunes:duration>00:07:03</itunes:duration>
-    </item>
-
-    <item>
-      <title>OpenClaw 2026.2.6: Cron reliability + security scanner (Feb 7)</title>
-      <description>Cron reliability fixes, a new skill/plugin safety scanner, and other ops-focused changes that make agent deployments more trustworthy.</description>
-      <link>https://github.com/openclaw/openclaw/releases</link>
-      <pubDate>Sat, 07 Feb 2026 18:05:33 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT" length="4893090" type="audio/mpeg" />
-      <itunes:duration>00:05:06</itunes:duration>
-    </item>
-    <item>
-      <title>Control Planes for Agents: Observability + Identity + Context (Feb 6)</title>
-      <description>Three shifts that make agent deployments safer and more repeatable: traces-as-control-plane, first-class agent identities, and repo-local context packs.</description>
-      <link>https://dev.to/seakai/observability-as-agent-os-the-open-source-alternative-3ggc</link>
-      <pubDate>Fri, 06 Feb 2026 18:05:21 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1" length="3749554" type="audio/mpeg" />
-      <itunes:duration>00:03:54</itunes:duration>
-    </item>
-
-    <item>
-      <title>The Agentic Enterprise Reality Check (Feb 5)</title>
-      <description>Why agentic AI deployments are running into identity sprawl, data readiness, and governance/observability constraints.</description>
-      <link>https://www.csoonline.com/article/4123246/think-agentic-ai-is-hard-to-secure-today-just-wait-a-few-months.html</link>
-      <pubDate>Thu, 05 Feb 2026 20:15:55 GMT</pubDate>
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078" length="5651267" type="audio/mpeg" />
-      <itunes:duration>00:05:53</itunes:duration>
-    </item>
+    
 
     
     <item>
+      <title>Agents need phone numbers, permissioning, and receipts</title>
+      <pubDate>Sun, 01 Mar 2026 18:02:36 GMT</pubDate>
+      <guid>bookmarks-podcast-1xuJgCKCDWmEA29zhBgrh8wmgpT2ONqra</guid>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/feed.xml</link>
+      <description>Today: OTP phone numbers for agents, permissioning defaults, SOUL.md for behavioral consistency, and why use-case repos matter.</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xuJgCKCDWmEA29zhBgrh8wmgpT2ONqra" length="4051738" type="audio/mpeg"/>
+      <itunes:duration>4:13</itunes:duration>
+    </item>
+    <item>
+      <title>Agents that ship (and agents that pretend to be human)</title>
+      <description>Today’s themes from X bookmarks: Workers + custom agents, shared memory across tools, and why agent etiquette matters as they start booking real meetings.</description>
+      <pubDate>Sat, 28 Feb 2026 18:03:43 +0000</pubDate>
+      <guid isPermaLink="false">bookmarks-podcast-2026-02-28</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;amp;id=1Mwe5ifaFOSmwnOjbExAlV3APVWnyHaBn" length="3879120" type="audio/mpeg"/>
+      <itunes:duration>242</itunes:duration>
+    </item>
+    <item>
+      
+      
+      <title>Agents that remember, agents that ship</title>
+      
+      
+      <description>Sharper agent specs, faster local inference, and the preflight-review pattern to catch expensive mistakes before you ship.</description>
+      
+      
+      <pubDate>Fri, 27 Feb 2026 18:00:00 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">bookmarks-podcast-2026-02-27</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Muksl9ZbymnM0kb7cNIRu7BpTzzFdK58" length="2703820" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>168</itunes:duration>
+      
+    
+    </item>
+    
+    
+    <title>Bookmarks Podcast</title>
+    
+    
+    <link>https://drive.google.com/drive/folders/1dRkDlPN2HrA3GSBLYYQY6vV5FGccfYrf</link>
+    
+    
+    <description>Daily audio notes generated from Thanh's saved reading/bookmarks (Instapaper today; more sources later). Unlisted feed.</description>
+    
+    
+    <language>en-us</language>
+    
+    
+    <itunes:author>Thanh Pham</itunes:author>
+    
+    
+    <itunes:explicit>no</itunes:explicit>
+    
+    
+    <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png"/>
+    
+
+
+
+
+
+    
+    <item>
+      
+      
+      <title>Exit Reviews, Context Accounting, and Local Models on Your Mac</title>
+      
+      
+      <description>How to ship faster with agent exit reviews, keep runs reliable with context accounting, and build hybrid stacks with local models on your Mac.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Thu, 26 Feb 2026 18:00:00 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Hax5mOF3VJ6VyARRIARLhCPo4GDuHVXD</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Hax5mOF3VJ6VyARRIARLhCPo4GDuHVXD" length="2524516" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:02:38</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Context Allocation, Self-Recording Agents, and the GPU Reality Check</title>
+      
+      
+      <description>Why agent swarms are really context architectures, Cursor’s cloud agents raise the trust bar with video artifacts, and agent throughput brings the hardware reality check.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Wed, 25 Feb 2026 18:00:00 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=186HyIG71yjrm2XCrEatofm4Ns4uUURDk</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=186HyIG71yjrm2XCrEatofm4Ns4uUURDk" length="3588640" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:03:44</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Agent Traffic, Broken CLAUDE.md Files, and Running Six Agents Around the Clock</title>
+      
+      
+      <description>SaaS platforms face 50K agent requests per hour, llms.txt drives 10% of Vercel traffic from AI, CLAUDE.md best practices get a reality check, and OpenClaw users run full businesses on six autonomous agents.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Tue, 24 Feb 2026 18:00:00 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1K5n5kwlj1XAbhG3Qz8UfoHhjc8_7cweM</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K5n5kwlj1XAbhG3Qz8UfoHhjc8_7cweM" length="4345563" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:04:31</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Parallel Agents, Founder Playbooks, and Eight Million Emails</title>
+      
+      
+      <description>Coding agents go parallel with four simultaneous worktrees, the OpenClaw use-case debate gets settled with concrete founder playbooks, AI email agents hit eight million sends and find ten winning patterns, and GeoSpy AI turns any selfie into a location pin.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Mon, 23 Feb 2026 18:00:00 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Lu1olPtKXiLVoa_mLPdB77aWx2xL5kUA</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Lu1olPtKXiLVoa_mLPdB77aWx2xL5kUA" length="4348906" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:04:31</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>The Lean Agent Stack — OpenClaw for Finance, Context Without Limits, and Shipping From Your Bedroom</title>
+      
+      
+      <description>OpenClaw as a personal finance operator, the five-pattern context architecture that keeps your agent lean at 24/7, and why the startup stack from your bedroom is now a solved problem — the only remaining bottleneck is taste.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Sun, 22 Feb 2026 18:00:00 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16JGy3j25OQ8IAmBl7qsvZOf1QQtaZLxk</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16JGy3j25OQ8IAmBl7qsvZOf1QQtaZLxk" length="6590421" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:06:51</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Evals Over Vibes — OpenClaw vs Manus, Claude Code, and the New Baseline for Shipping</title>
+      
+      
+      <description>Why agent ops is moving from vibe-based automation to eval-driven reliability: platform choices matter less than runbooks, coding agents shift the bottleneck to constraints, and OpenAI Evals gives you a practical regression loop.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Sat, 21 Feb 2026 18:04:18 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17ROkm40Il6cIRKqv6Ne_JQ9JI6n1TBcJ</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17ROkm40Il6cIRKqv6Ne_JQ9JI6n1TBcJ" length="5639147" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:05:52</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Launchd over Cron — Mission Statements, Skill Architecture, and SOP-to-Workflow Agents</title>
+      
+      
+      <description>Why agent ops is shifting from ‘more tools’ to boring reliability: use OS-level scheduling, give agents a north-star mission, and turn SOPs into structured workflows you can audit and improve.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Thu, 19 Feb 2026 18:07:58 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG" length="5756593" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:05:59</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Intent over Nodes — Workflow Replacement, Email Agents, and Alert-to-Action Ops</title>
+      
+      
+      <description>Why intent-driven agents are replacing brittle node graphs: turn workflow exports into reliable jobs, build email triage that defaults to drafts, and convert noisy alerts into contextual incidents with governed runbooks.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Wed, 18 Feb 2026 18:12:23 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T" length="5168942" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:05:23</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Taste Is the New Bottleneck — Memory Hygiene + Auth Sanity for Real Agent Ops</title>
+      
+      
+      <description>When execution gets cheap, taste and ops discipline become the edge: transcript ingestion, persistent browser auth, and nightly memory hygiene for reliable agent workflows.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Tue, 17 Feb 2026 18:06:56 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk" length="4706679" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:04:54</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>The Agent Infrastructure Tipping Point: When 100% Becomes the New Normal</title>
+      
+      
+      <description>Fresh research from Anthropic shows 100% of enterprises plan to expand AI agent adoption in 2026. Apple ships Xcode 26.3 with native agentic coding. We're past the tipping point—agents are now infrastructure.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Mon, 16 Feb 2026 18:06:19 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1" length="3780900" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:03:56</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>The Enterprise Agent Tipping Point: OpenAI Frontier and the Production Reality Check</title>
+      
+      
+      <description>OpenAI launches Frontier, CrewAI reports 100% of enterprises expanding agent adoption, 86% deploying to production. The conversation shifted from &quot;can we?&quot; to &quot;how do we do this well?&quot; This is the week agents went mainstream.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Sun, 15 Feb 2026 18:02:55 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7" length="3556457" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:03:47</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Agent Memory Systems: Building Persistent Context for Production AI</title>
+      
+      
+      <description>Session memory isn't enough — production agents need layered, persistent memory with semantic search, clear write permissions, and regular maintenance. The difference between demos and production.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Sat, 14 Feb 2026 18:03:16 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp" length="3830638" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:03:59</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Agent Reliability Engineering: Moving AI Agents from Demo to Production</title>
+      
+      
+      <description>Error handling, observability, idempotency, and production-ready patterns for AI automation that runs unsupervised. The reliability engineering discipline for agents.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Fri, 13 Feb 2026 18:04:31 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW" length="3634615" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:03:47</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>The Rise of the Agentic Operating System &amp; Human-on-the-Loop</title>
+      
+      
+      <description>IBM and Deloitte predict a shift to &quot;Agentic Operating Systems&quot; where specialized agents are orchestrated by humans in an &quot;on-the-loop&quot; supervisory role, matching our own OpenClaw architecture.</description>
+      
+      
+      <link>https://www.ibm.com/think/news/ai-tech-trends-predictions-2026</link>
+      
+      
+      <pubDate>Thu, 12 Feb 2026 12:00:00 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei" length="3836566" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:04:00</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>Building Production-Ready Agent Workflows: From Prototype to Reliable Automation</title>
+      
+      
+      <description>Moving beyond toy demos: state management, idempotency, observability, failure modes, and testing strategies for production-grade AI automation.</description>
+      
+      
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      
+      
+      <pubDate>Wed, 11 Feb 2026 18:05:18 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9" length="3836566" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:04:00</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>OpenClaw Security Whiplash: what to do when your agent goes viral</title>
+      
+      
+      <description>A practical playbook for agent ops: contain prompt injection, skills supply-chain risk, and accidental public exposure as OpenClaw goes mainstream.</description>
+      
+      
+      <link>https://www.reuters.com/world/china/china-warns-security-risks-linked-openclaw-open-source-ai-agent-2026-02-05/</link>
+      
+      
+      <pubDate>Tue, 10 Feb 2026 18:07:49 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN" length="10864472" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:11:19</itunes:duration>
+      
+    
+    </item>
+    
+
+
+    
+    <item>
+      
+      
+      <title>OpenClaw Goes Mainstream - What the CNBC Coverage and Security Research Tell Us</title>
+      
+      
+      <description>Analysis of OpenClaw's viral moment: CNBC coverage, security research from Trend Micro, and what it means for agent operations and AI workshops.</description>
+      
+      
+      <link>https://www.cnbc.com/2026/02/02/openclaw-open-source-ai-agent-rise-controversy-clawdbot-moltbot-moltbook.html</link>
+      
+      
+      <pubDate>Mon, 09 Feb 2026 18:02:19 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB" length="6771816" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:07:03</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>OpenClaw 2026.2.6: Cron reliability + security scanner (Feb 7)</title>
+      
+      
+      <description>Cron reliability fixes, a new skill/plugin safety scanner, and other ops-focused changes that make agent deployments more trustworthy.</description>
+      
+      
+      <link>https://github.com/openclaw/openclaw/releases</link>
+      
+      
+      <pubDate>Sat, 07 Feb 2026 18:05:33 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT" length="4893090" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:05:06</itunes:duration>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Control Planes for Agents: Observability + Identity + Context (Feb 6)</title>
+      
+      
+      <description>Three shifts that make agent deployments safer and more repeatable: traces-as-control-plane, first-class agent identities, and repo-local context packs.</description>
+      
+      
+      <link>https://dev.to/seakai/observability-as-agent-os-the-open-source-alternative-3ggc</link>
+      
+      
+      <pubDate>Fri, 06 Feb 2026 18:05:21 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1" length="3749554" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:03:54</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    <item>
+      
+      
+      <title>The Agentic Enterprise Reality Check (Feb 5)</title>
+      
+      
+      <description>Why agentic AI deployments are running into identity sprawl, data readiness, and governance/observability constraints.</description>
+      
+      
+      <link>https://www.csoonline.com/article/4123246/think-agentic-ai-is-hard-to-secure-today-just-wait-a-few-months.html</link>
+      
+      
+      <pubDate>Thu, 05 Feb 2026 20:15:55 GMT</pubDate>
+      
+      
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078</guid>
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078" length="5651267" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:05:53</itunes:duration>
+      
+    
+    </item>
+    
+
+    
+    
+    <item>
+      
+      
       <title>Two Signals for Agentic AI in 2026: Dev Taste + Security Standards (Feb 2)</title>
+      
+      
       <description>Fallback research update episode.</description>
+      
+      
       <link>https://dev.to/austinwdigital/ai-assisted-development-in-2026-best-practices-real-risks-and-the-new-bar-for-engineers-3fom</link>
+      
+      
       <pubDate>Tue, 03 Feb 2026 05:33:59 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CcOtjD5V6c413ZhwK-TaLVrv8XBNTv99</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CcOtjD5V6c413ZhwK-TaLVrv8XBNTv99" length="1042992" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CcOtjD5V6c413ZhwK-TaLVrv8XBNTv99" length="1042992" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:02:53</itunes:duration>
+      
+    
     </item>
-<item>
+    
+
+    <item>
+      
+      
       <title>Reliable AI Workflows with Agentic Primitives &amp; Context Engineering (Feb 1)</title>
+      
+      
       <description>Summary of GitHub’s three-layer framework for making AI workflows reliable with Markdown structure, agentic primitives, and context engineering.</description>
+      
+      
       <link>https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/</link>
+      
+      
       <pubDate>Sun, 01 Feb 2026 18:05:00 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1f0BpWxbzr8UMPqJLWtVsr2S-PfthCI_2</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f0BpWxbzr8UMPqJLWtVsr2S-PfthCI_2" length="3606528" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f0BpWxbzr8UMPqJLWtVsr2S-PfthCI_2" length="3606528" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:03:45</itunes:duration>
+      
+    
     </item>
+    
 
 
+    
     <item>
+      
+      
       <title>Autonomous AI Agents: OpenClaw, Ralph Loops, and Enterprise Control Towers (Jan 31)</title>
+      
+      
       <description>Research-driven episode on the shift from chatbots to agents that act, plus why governance and consumption pricing are the next battleground.</description>
+      
+      
       <link>https://dev.to/joeljstephen/january-2026-ai-roundup-the-rise-of-autonomous-ai-agents-405</link>
+      
+      
       <pubDate>Sat, 31 Jan 2026 19:12:01 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10UZa88SKNVzy-qxp6VdF-5aszTkWDPmF</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10UZa88SKNVzy-qxp6VdF-5aszTkWDPmF" length="2096256" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10UZa88SKNVzy-qxp6VdF-5aszTkWDPmF" length="2096256" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:02:11</itunes:duration>
+      
+    
     </item>
+    
 
 
+    
     <item>
+      
+      
       <title>Agentic Enterprise Meets Personal Agent Workflows (Feb 4)</title>
+      
+      
       <description>Sources: MuleSoft Q1 2026 roadmap; Dev.to AI roundup; Humai AI agents guide.</description>
+      
+      
       <link>https://blogs.mulesoft.com/news/mulesoft-q1-2026-product-roadmap/</link>
+      
+      
       <pubDate>Thu, 05 Feb 2026 01:18:02 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1om3UbMsjbc-DrTdi4wmhNp8YqoCf6Cn1</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1om3UbMsjbc-DrTdi4wmhNp8YqoCf6Cn1" length="3028992" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1om3UbMsjbc-DrTdi4wmhNp8YqoCf6Cn1" length="3028992" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:03:09</itunes:duration>
+      
+    
     </item>
+    
 
+    
     <item>
+      
+      
       <title>Today’s Research Update — Agents, OpenClaw, and AI Coding (Jan 31)</title>
+      
+      
       <description>Fallback research update episode.</description>
+      
+      
       <link>https://www.nbcnews.com/tech/tech-news/ai-agents-social-media-platform-moltbook-rcna256738</link>
+      
+      
       <pubDate>Sat, 31 Jan 2026 19:10:54 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1PyIS-57S8hCKMBqoZibrUfN5L1QA5TK-</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PyIS-57S8hCKMBqoZibrUfN5L1QA5TK-" length="1952256" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PyIS-57S8hCKMBqoZibrUfN5L1QA5TK-" length="1952256" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:02:02</itunes:duration>
+      
+    
     </item>
+    
 
+    
     <item>
+      
+      
       <title>Agent Evals in the Real World: Traces, CI Gates, and DevSecOps Context (Jan 30)</title>
+      
+      
       <description>Fallback research update episode.</description>
+      
+      
       <link>https://www.blog.langchain.com/january-2026-langchain-newsletter/</link>
+      
+      
       <pubDate>Fri, 30 Jan 2026 18:04:25 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12vsS43oKBZmdn6HdpCbGMODNcQHWlxiD</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12vsS43oKBZmdn6HdpCbGMODNcQHWlxiD" length="5064960" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12vsS43oKBZmdn6HdpCbGMODNcQHWlxiD" length="5064960" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:05:17</itunes:duration>
+      
+    
     </item>
+    
 
+    
     <item>
+      
+      
       <title>Clawdbot Runs Locally: The Messaging-First Personal AI Assistant (Jan 29)</title>
+      
+      
       <description>Research update episode.</description>
+      
+      
       <link>https://www.trendingtopics.eu/austrian-developer-creates-clawdbot-an-open-source-ai-assistant-that-runs-locally/</link>
+      
+      
       <pubDate>Thu, 29 Jan 2026 21:50:07 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JIynzsk7OIpd3bssselsNvWHhS0BOuKn</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JIynzsk7OIpd3bssselsNvWHhS0BOuKn" length="2167296" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JIynzsk7OIpd3bssselsNvWHhS0BOuKn" length="2167296" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:02:15</itunes:duration>
+      
+    
     </item>
+    
 
+    
     <item>
+      
+      
       <title>Today’s Research Update — Agents, Models, and Momentum (Jan 28)</title>
+      
+      
       <description>Fallback research update episode.</description>
+      
+      
       <pubDate>Thu, 29 Jan 2026 12:04:39 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1VEV5pq6_n2wi8gHU1RiuOyef4y2vhAT-</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VEV5pq6_n2wi8gHU1RiuOyef4y2vhAT-" length="4449792" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VEV5pq6_n2wi8gHU1RiuOyef4y2vhAT-" length="4449792" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:04:38</itunes:duration>
+      
+    
     </item>
+    
 
 
+    
     <item>
+      
+      
       <title>Dario Amodei — The Adolescence of Technology</title>
+      
+      
       <description>Instapaper audio note summary (Laura).</description>
+      
+      
       <pubDate>Tue, 27 Jan 2026 04:36:00 GMT</pubDate>
+      
+      
       <guid isPermaLink="false">instapaper-1967978907-2026-01-26</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17YlmJOcwCuX0h7GFZkGHdXCGkWQMZwXU" length="7923710" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17YlmJOcwCuX0h7GFZkGHdXCGkWQMZwXU" length="7923710" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:08:15</itunes:duration>
+      
+    
     </item>
+    
 
   
+    
     <item>
+      
+      
       <title>How I Use Clawdbot (Kristian Freeman)</title>
+      
+      
       <description>A practical field report on turning a chat interface into an always-on control plane using skills, model routing, and tight trust boundaries.</description>
+      
+      
       <link>https://kristianfreeman.com/how-i-use-clawdbot</link>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1X5GeutzTvDdWGZkhMhNsQYh-w1BMU7yY</guid>
+      
+      
       <pubDate>Tue, 27 Jan 2026 05:59:44 +0000</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X5GeutzTvDdWGZkhMhNsQYh-w1BMU7yY" length="3064320" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X5GeutzTvDdWGZkhMhNsQYh-w1BMU7yY" length="3064320" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:03:12</itunes:duration>
+      
+    
     </item>
+    
 
+    
     <item>
+      
+      
       <title>Clawdbot: The Future of Personal AI Assistants (MacStories)</title>
+      
+      
       <description>A hands-on look at why chat-based agents become real assistants only when they can reliably execute workflows through tools and skills.</description>
+      
+      
       <link>https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/</link>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1</guid>
+      
+      
       <pubDate>Tue, 27 Jan 2026 06:19:30 +0000</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1" length="3136128" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1" length="3136128" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:03:16</itunes:duration>
+      
+    
     </item>
+    
 
+    
     <item>
+      
+      
       <title>AI Will Change Private Markets (Colossus)</title>
+      
+      
       <description>A Bloomberg-Terminal-style argument for how AI will compress diligence and synthesis, reshaping private-market workflows and strategies.</description>
+      
+      
       <link>https://colossus.com/article/are-we-underestimating-how-ai-will-change-private-markets/</link>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1V2TB-X7bm_hLtIjht0KQvrgwFCRql-YA</guid>
+      
+      
       <pubDate>Tue, 27 Jan 2026 06:30:06 +0000</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V2TB-X7bm_hLtIjht0KQvrgwFCRql-YA" length="3415296" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V2TB-X7bm_hLtIjht0KQvrgwFCRql-YA" length="3415296" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:03:33</itunes:duration>
+      
+    
     </item>
+    
 
+    
     <item>
+      
+      
       <title>Compound Engineering (Every)</title>
+      
+      
       <description>A practical workflow for shipping with coding agents: Plan → Work → Assess → Compound, with compounding coming from capturing learnings so future agents don’t repeat mistakes.</description>
+      
+      
       <link>https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents</link>
+      
+      
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UqnWzBGysePe1zUJs9K03DetgtB3tQ45</guid>
+      
+      
       <pubDate>Tue, 27 Jan 2026 18:05:30 +0000</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UqnWzBGysePe1zUJs9K03DetgtB3tQ45" length="2905728" type="audio/mpeg" />
+      
+      
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UqnWzBGysePe1zUJs9K03DetgtB3tQ45" length="2905728" type="audio/mpeg"/>
+      
+      
       <itunes:duration>00:03:02</itunes:duration>
+      
+    
     </item>
-</channel>
+    
+
+  </channel>
+  
+
 </rss>
