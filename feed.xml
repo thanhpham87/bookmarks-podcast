@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   
   
   <channel>
     
 
     
-    <item>
+    <item><title>Claude Cowork, faster inference, and Nano Banana prompt tricks</title><description>Today: Claude Cowork as an execution harness, Multiple Token Prediction for faster agent loops, and Nano Banana prompt patterns for consistent image outputs.</description><pubDate>Mon, 02 Mar 2026 18:02:46 -0000</pubDate><guid>https://drive.google.com/uc?export=download&amp;id=1UtyA-gJvhaN-K5RUjpWCCucZhEqgFIAP</guid><enclosure url="https://drive.google.com/uc?export=download&amp;id=1UtyA-gJvhaN-K5RUjpWCCucZhEqgFIAP" length="3510480" type="audio/mpeg" /><ns0:duration>219</ns0:duration></item><item>
       <title>Agents need phone numbers, permissioning, and receipts</title>
       <pubDate>Sun, 01 Mar 2026 18:02:36 GMT</pubDate>
       <guid>bookmarks-podcast-1xuJgCKCDWmEA29zhBgrh8wmgpT2ONqra</guid>
       <link>https://thanhpham87.github.io/bookmarks-podcast/feed.xml</link>
       <description>Today: OTP phone numbers for agents, permissioning defaults, SOUL.md for behavioral consistency, and why use-case repos matter.</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xuJgCKCDWmEA29zhBgrh8wmgpT2ONqra" length="4051738" type="audio/mpeg"/>
-      <itunes:duration>4:13</itunes:duration>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xuJgCKCDWmEA29zhBgrh8wmgpT2ONqra" length="4051738" type="audio/mpeg" />
+      <ns0:duration>4:13</ns0:duration>
     </item>
     <item>
       <title>Agents that ship (and agents that pretend to be human)</title>
       <description>Today’s themes from X bookmarks: Workers + custom agents, shared memory across tools, and why agent etiquette matters as they start booking real meetings.</description>
       <pubDate>Sat, 28 Feb 2026 18:03:43 +0000</pubDate>
       <guid isPermaLink="false">bookmarks-podcast-2026-02-28</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;amp;id=1Mwe5ifaFOSmwnOjbExAlV3APVWnyHaBn" length="3879120" type="audio/mpeg"/>
-      <itunes:duration>242</itunes:duration>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;amp;id=1Mwe5ifaFOSmwnOjbExAlV3APVWnyHaBn" length="3879120" type="audio/mpeg" />
+      <ns0:duration>242</ns0:duration>
     </item>
     <item>
       
@@ -38,10 +38,10 @@
       <guid isPermaLink="false">bookmarks-podcast-2026-02-27</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Muksl9ZbymnM0kb7cNIRu7BpTzzFdK58" length="2703820" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Muksl9ZbymnM0kb7cNIRu7BpTzzFdK58" length="2703820" type="audio/mpeg" />
       
       
-      <itunes:duration>168</itunes:duration>
+      <ns0:duration>168</ns0:duration>
       
     
     </item>
@@ -59,13 +59,13 @@
     <language>en-us</language>
     
     
-    <itunes:author>Thanh Pham</itunes:author>
+    <ns0:author>Thanh Pham</ns0:author>
     
     
-    <itunes:explicit>no</itunes:explicit>
+    <ns0:explicit>no</ns0:explicit>
     
     
-    <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png"/>
+    <ns0:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
     
 
 
@@ -91,10 +91,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Hax5mOF3VJ6VyARRIARLhCPo4GDuHVXD</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Hax5mOF3VJ6VyARRIARLhCPo4GDuHVXD" length="2524516" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Hax5mOF3VJ6VyARRIARLhCPo4GDuHVXD" length="2524516" type="audio/mpeg" />
       
       
-      <itunes:duration>00:02:38</itunes:duration>
+      <ns0:duration>00:02:38</ns0:duration>
       
     
     </item>
@@ -119,10 +119,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=186HyIG71yjrm2XCrEatofm4Ns4uUURDk</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=186HyIG71yjrm2XCrEatofm4Ns4uUURDk" length="3588640" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=186HyIG71yjrm2XCrEatofm4Ns4uUURDk" length="3588640" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:44</itunes:duration>
+      <ns0:duration>00:03:44</ns0:duration>
       
     
     </item>
@@ -147,10 +147,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1K5n5kwlj1XAbhG3Qz8UfoHhjc8_7cweM</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K5n5kwlj1XAbhG3Qz8UfoHhjc8_7cweM" length="4345563" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K5n5kwlj1XAbhG3Qz8UfoHhjc8_7cweM" length="4345563" type="audio/mpeg" />
       
       
-      <itunes:duration>00:04:31</itunes:duration>
+      <ns0:duration>00:04:31</ns0:duration>
       
     
     </item>
@@ -175,10 +175,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Lu1olPtKXiLVoa_mLPdB77aWx2xL5kUA</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Lu1olPtKXiLVoa_mLPdB77aWx2xL5kUA" length="4348906" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Lu1olPtKXiLVoa_mLPdB77aWx2xL5kUA" length="4348906" type="audio/mpeg" />
       
       
-      <itunes:duration>00:04:31</itunes:duration>
+      <ns0:duration>00:04:31</ns0:duration>
       
     
     </item>
@@ -203,10 +203,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16JGy3j25OQ8IAmBl7qsvZOf1QQtaZLxk</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16JGy3j25OQ8IAmBl7qsvZOf1QQtaZLxk" length="6590421" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16JGy3j25OQ8IAmBl7qsvZOf1QQtaZLxk" length="6590421" type="audio/mpeg" />
       
       
-      <itunes:duration>00:06:51</itunes:duration>
+      <ns0:duration>00:06:51</ns0:duration>
       
     
     </item>
@@ -231,10 +231,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17ROkm40Il6cIRKqv6Ne_JQ9JI6n1TBcJ</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17ROkm40Il6cIRKqv6Ne_JQ9JI6n1TBcJ" length="5639147" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17ROkm40Il6cIRKqv6Ne_JQ9JI6n1TBcJ" length="5639147" type="audio/mpeg" />
       
       
-      <itunes:duration>00:05:52</itunes:duration>
+      <ns0:duration>00:05:52</ns0:duration>
       
     
     </item>
@@ -259,10 +259,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG" length="5756593" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG" length="5756593" type="audio/mpeg" />
       
       
-      <itunes:duration>00:05:59</itunes:duration>
+      <ns0:duration>00:05:59</ns0:duration>
       
     
     </item>
@@ -287,10 +287,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T" length="5168942" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-rTZtboVodGU-h6JR6-Erg64r6QktL6T" length="5168942" type="audio/mpeg" />
       
       
-      <itunes:duration>00:05:23</itunes:duration>
+      <ns0:duration>00:05:23</ns0:duration>
       
     
     </item>
@@ -315,10 +315,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk" length="4706679" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14bco63CtayhOJSpKp-W-94exvuqQqoLk" length="4706679" type="audio/mpeg" />
       
       
-      <itunes:duration>00:04:54</itunes:duration>
+      <ns0:duration>00:04:54</ns0:duration>
       
     
     </item>
@@ -343,10 +343,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1" length="3780900" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HOWpLLXRLtJBoL9tQsmDH5rgth2Nw2V1" length="3780900" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:56</itunes:duration>
+      <ns0:duration>00:03:56</ns0:duration>
       
     
     </item>
@@ -359,7 +359,7 @@
       <title>The Enterprise Agent Tipping Point: OpenAI Frontier and the Production Reality Check</title>
       
       
-      <description>OpenAI launches Frontier, CrewAI reports 100% of enterprises expanding agent adoption, 86% deploying to production. The conversation shifted from &quot;can we?&quot; to &quot;how do we do this well?&quot; This is the week agents went mainstream.</description>
+      <description>OpenAI launches Frontier, CrewAI reports 100% of enterprises expanding agent adoption, 86% deploying to production. The conversation shifted from "can we?" to "how do we do this well?" This is the week agents went mainstream.</description>
       
       
       <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
@@ -371,10 +371,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7" length="3556457" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gxgTiGlbrvmugD7dGFMEkY6mu023CTb7" length="3556457" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:47</itunes:duration>
+      <ns0:duration>00:03:47</ns0:duration>
       
     
     </item>
@@ -399,10 +399,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp" length="3830638" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp" length="3830638" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:59</itunes:duration>
+      <ns0:duration>00:03:59</ns0:duration>
       
     
     </item>
@@ -427,10 +427,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW" length="3634615" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sw-ecNzE3O0a-ULE-AkBEDu9jUE8KRCW" length="3634615" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:47</itunes:duration>
+      <ns0:duration>00:03:47</ns0:duration>
       
     
     </item>
@@ -443,7 +443,7 @@
       <title>The Rise of the Agentic Operating System &amp; Human-on-the-Loop</title>
       
       
-      <description>IBM and Deloitte predict a shift to &quot;Agentic Operating Systems&quot; where specialized agents are orchestrated by humans in an &quot;on-the-loop&quot; supervisory role, matching our own OpenClaw architecture.</description>
+      <description>IBM and Deloitte predict a shift to "Agentic Operating Systems" where specialized agents are orchestrated by humans in an "on-the-loop" supervisory role, matching our own OpenClaw architecture.</description>
       
       
       <link>https://www.ibm.com/think/news/ai-tech-trends-predictions-2026</link>
@@ -455,10 +455,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei" length="3836566" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei" length="3836566" type="audio/mpeg" />
       
       
-      <itunes:duration>00:04:00</itunes:duration>
+      <ns0:duration>00:04:00</ns0:duration>
       
     
     </item>
@@ -483,10 +483,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9" length="3836566" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9" length="3836566" type="audio/mpeg" />
       
       
-      <itunes:duration>00:04:00</itunes:duration>
+      <ns0:duration>00:04:00</ns0:duration>
       
     
     </item>
@@ -511,10 +511,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN" length="10864472" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN" length="10864472" type="audio/mpeg" />
       
       
-      <itunes:duration>00:11:19</itunes:duration>
+      <ns0:duration>00:11:19</ns0:duration>
       
     
     </item>
@@ -540,10 +540,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB" length="6771816" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aHWnnx2jZoJ5eXWaOg4jWC9JBaPZFehB" length="6771816" type="audio/mpeg" />
       
       
-      <itunes:duration>00:07:03</itunes:duration>
+      <ns0:duration>00:07:03</ns0:duration>
       
     
     </item>
@@ -568,10 +568,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT" length="4893090" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT" length="4893090" type="audio/mpeg" />
       
       
-      <itunes:duration>00:05:06</itunes:duration>
+      <ns0:duration>00:05:06</ns0:duration>
       
     
     </item>
@@ -595,10 +595,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1" length="3749554" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uMAALvnXQV-NHYHb8ukz8QqUrVddEUJ1" length="3749554" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:54</itunes:duration>
+      <ns0:duration>00:03:54</ns0:duration>
       
     
     </item>
@@ -623,10 +623,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078" length="5651267" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tHoBViDI7X_mvpX20VNffMmXPOmG6078" length="5651267" type="audio/mpeg" />
       
       
-      <itunes:duration>00:05:53</itunes:duration>
+      <ns0:duration>00:05:53</ns0:duration>
       
     
     </item>
@@ -652,10 +652,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CcOtjD5V6c413ZhwK-TaLVrv8XBNTv99</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CcOtjD5V6c413ZhwK-TaLVrv8XBNTv99" length="1042992" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CcOtjD5V6c413ZhwK-TaLVrv8XBNTv99" length="1042992" type="audio/mpeg" />
       
       
-      <itunes:duration>00:02:53</itunes:duration>
+      <ns0:duration>00:02:53</ns0:duration>
       
     
     </item>
@@ -679,10 +679,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1f0BpWxbzr8UMPqJLWtVsr2S-PfthCI_2</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f0BpWxbzr8UMPqJLWtVsr2S-PfthCI_2" length="3606528" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f0BpWxbzr8UMPqJLWtVsr2S-PfthCI_2" length="3606528" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:45</itunes:duration>
+      <ns0:duration>00:03:45</ns0:duration>
       
     
     </item>
@@ -708,10 +708,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10UZa88SKNVzy-qxp6VdF-5aszTkWDPmF</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10UZa88SKNVzy-qxp6VdF-5aszTkWDPmF" length="2096256" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10UZa88SKNVzy-qxp6VdF-5aszTkWDPmF" length="2096256" type="audio/mpeg" />
       
       
-      <itunes:duration>00:02:11</itunes:duration>
+      <ns0:duration>00:02:11</ns0:duration>
       
     
     </item>
@@ -737,10 +737,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1om3UbMsjbc-DrTdi4wmhNp8YqoCf6Cn1</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1om3UbMsjbc-DrTdi4wmhNp8YqoCf6Cn1" length="3028992" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1om3UbMsjbc-DrTdi4wmhNp8YqoCf6Cn1" length="3028992" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:09</itunes:duration>
+      <ns0:duration>00:03:09</ns0:duration>
       
     
     </item>
@@ -765,10 +765,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1PyIS-57S8hCKMBqoZibrUfN5L1QA5TK-</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PyIS-57S8hCKMBqoZibrUfN5L1QA5TK-" length="1952256" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PyIS-57S8hCKMBqoZibrUfN5L1QA5TK-" length="1952256" type="audio/mpeg" />
       
       
-      <itunes:duration>00:02:02</itunes:duration>
+      <ns0:duration>00:02:02</ns0:duration>
       
     
     </item>
@@ -793,10 +793,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12vsS43oKBZmdn6HdpCbGMODNcQHWlxiD</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12vsS43oKBZmdn6HdpCbGMODNcQHWlxiD" length="5064960" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12vsS43oKBZmdn6HdpCbGMODNcQHWlxiD" length="5064960" type="audio/mpeg" />
       
       
-      <itunes:duration>00:05:17</itunes:duration>
+      <ns0:duration>00:05:17</ns0:duration>
       
     
     </item>
@@ -821,10 +821,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JIynzsk7OIpd3bssselsNvWHhS0BOuKn</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JIynzsk7OIpd3bssselsNvWHhS0BOuKn" length="2167296" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JIynzsk7OIpd3bssselsNvWHhS0BOuKn" length="2167296" type="audio/mpeg" />
       
       
-      <itunes:duration>00:02:15</itunes:duration>
+      <ns0:duration>00:02:15</ns0:duration>
       
     
     </item>
@@ -846,10 +846,10 @@
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1VEV5pq6_n2wi8gHU1RiuOyef4y2vhAT-</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VEV5pq6_n2wi8gHU1RiuOyef4y2vhAT-" length="4449792" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VEV5pq6_n2wi8gHU1RiuOyef4y2vhAT-" length="4449792" type="audio/mpeg" />
       
       
-      <itunes:duration>00:04:38</itunes:duration>
+      <ns0:duration>00:04:38</ns0:duration>
       
     
     </item>
@@ -872,10 +872,10 @@
       <guid isPermaLink="false">instapaper-1967978907-2026-01-26</guid>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17YlmJOcwCuX0h7GFZkGHdXCGkWQMZwXU" length="7923710" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17YlmJOcwCuX0h7GFZkGHdXCGkWQMZwXU" length="7923710" type="audio/mpeg" />
       
       
-      <itunes:duration>00:08:15</itunes:duration>
+      <ns0:duration>00:08:15</ns0:duration>
       
     
     </item>
@@ -901,10 +901,10 @@
       <pubDate>Tue, 27 Jan 2026 05:59:44 +0000</pubDate>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X5GeutzTvDdWGZkhMhNsQYh-w1BMU7yY" length="3064320" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X5GeutzTvDdWGZkhMhNsQYh-w1BMU7yY" length="3064320" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:12</itunes:duration>
+      <ns0:duration>00:03:12</ns0:duration>
       
     
     </item>
@@ -929,10 +929,10 @@
       <pubDate>Tue, 27 Jan 2026 06:19:30 +0000</pubDate>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1" length="3136128" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rQtWwWi70dgTm1TaSiWZuKtsB-D1J8c1" length="3136128" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:16</itunes:duration>
+      <ns0:duration>00:03:16</ns0:duration>
       
     
     </item>
@@ -957,10 +957,10 @@
       <pubDate>Tue, 27 Jan 2026 06:30:06 +0000</pubDate>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V2TB-X7bm_hLtIjht0KQvrgwFCRql-YA" length="3415296" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V2TB-X7bm_hLtIjht0KQvrgwFCRql-YA" length="3415296" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:33</itunes:duration>
+      <ns0:duration>00:03:33</ns0:duration>
       
     
     </item>
@@ -985,10 +985,10 @@
       <pubDate>Tue, 27 Jan 2026 18:05:30 +0000</pubDate>
       
       
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UqnWzBGysePe1zUJs9K03DetgtB3tQ45" length="2905728" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UqnWzBGysePe1zUJs9K03DetgtB3tQ45" length="2905728" type="audio/mpeg" />
       
       
-      <itunes:duration>00:03:02</itunes:duration>
+      <ns0:duration>00:03:02</ns0:duration>
       
     
     </item>
