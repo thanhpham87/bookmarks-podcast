@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   
   
   <channel>
     
 
     
-    <item><title>Claude Cowork, faster inference, and Nano Banana prompt tricks</title><description>Today: Claude Cowork as an execution harness, Multiple Token Prediction for faster agent loops, and Nano Banana prompt patterns for consistent image outputs.</description><pubDate>Mon, 02 Mar 2026 18:02:46 -0000</pubDate><guid>https://drive.google.com/uc?export=download&amp;id=1UtyA-gJvhaN-K5RUjpWCCucZhEqgFIAP</guid><enclosure url="https://drive.google.com/uc?export=download&amp;id=1UtyA-gJvhaN-K5RUjpWCCucZhEqgFIAP" length="3510480" type="audio/mpeg" /><ns0:duration>219</ns0:duration></item><item>
+    <item><title>Agent OS: Hooks, Hand-offs, and the $650k Button</title><link>https://thanhpham87.github.io/bookmarks-podcast/</link><guid>bookmarks-podcast-2026-03-05</guid><pubDate>Thu, 05 Mar 2026 12:00:00 -0600</pubDate><description>Today’s bookmarks: a cost-estimate mindset shift, Claude Code HTTP hooks, OpenClaw’s agent operating model, and a small note on environment speed.</description><enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZET98yvZfJTLvMJdzei5t7ZPyHJVXl2c" length="3193668" type="audio/mpeg" /></item><item><title>Claude Cowork, faster inference, and Nano Banana prompt tricks</title><description>Today: Claude Cowork as an execution harness, Multiple Token Prediction for faster agent loops, and Nano Banana prompt patterns for consistent image outputs.</description><pubDate>Mon, 02 Mar 2026 18:02:46 -0000</pubDate><guid>https://drive.google.com/uc?export=download&amp;id=1UtyA-gJvhaN-K5RUjpWCCucZhEqgFIAP</guid><enclosure url="https://drive.google.com/uc?export=download&amp;id=1UtyA-gJvhaN-K5RUjpWCCucZhEqgFIAP" length="3510480" type="audio/mpeg" /><ns0:duration>219</ns0:duration></item><item>
       <title>Agents need phone numbers, permissioning, and receipts</title>
       <pubDate>Sun, 01 Mar 2026 18:02:36 GMT</pubDate>
       <guid>bookmarks-podcast-1xuJgCKCDWmEA29zhBgrh8wmgpT2ONqra</guid>
