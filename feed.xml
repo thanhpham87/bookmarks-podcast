@@ -1,7 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+    
     <item>
+      <title>From Chatbots to Action Systems</title>
+      <description>Today's theme: stop renting intelligence and start building systems that execute — enterprise AI hangovers, agent memory that survives compaction, prompt ergonomics, and local-first personal data agents.</description>
+      <pubDate>Sat, 07 Mar 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bookmarks-podcast-2026-03-07</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1Yp09uj1uUMh6nzIN7Oa-lKvQdpeDgO9p" length="4694977" type="audio/mpeg"/>
+    </item>
+<item>
       <title>OpenClaw Gotchas, Cheap SEO Agents, and the State of Agent Ops</title>
       <description>A short ops-first run through a fresh OpenClaw config gotcha and the weekly-loop pattern behind “cheap SEO agents”, plus a simple reliability checklist.</description>
       <pubDate>Fri, 06 Mar 2026 18:03:21 GMT</pubDate>
